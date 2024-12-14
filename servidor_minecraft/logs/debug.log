@@ -549,3 +549,17 @@
 [14Dec2024 22:20:18.942] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/20, l='ServerLevel[world]', x=82.70, y=69.00, z=207.30] died, message: 'Farmer was slain by XxllertixX'
 [14Dec2024 22:20:57.213] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: XxllertixX lost connection: Disconnected
 [14Dec2024 22:20:57.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XxllertixX left the game
+[14Dec2024 22:23:28.396] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 22:23:28.399] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 22:23:40.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[14Dec2024 22:23:40.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: close<--[HERE]
+[14Dec2024 22:23:47.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[14Dec2024 22:23:47.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: x<--[HERE]
+[14Dec2024 22:28:28.130] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 22:28:28.133] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 22:29:29.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[14Dec2024 22:29:29.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: exit<--[HERE]
+[14Dec2024 22:29:35.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[14Dec2024 22:29:35.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /exot<--[HERE]
+[14Dec2024 22:29:38.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[14Dec2024 22:29:38.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /close<--[HERE]
